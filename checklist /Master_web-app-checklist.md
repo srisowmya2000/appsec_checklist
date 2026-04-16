@@ -1,4 +1,4 @@
-# Web Application Security Checklist
+# Master Web Application Security Checklist
 
 A simple checklist for reviewing common web application security risks.
 
